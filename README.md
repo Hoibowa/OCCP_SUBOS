@@ -1,6 +1,7 @@
 # OCCP_SUBOS
 OCCP is an on-chain context protocol that treats value transfer and information persistence as equivalent. SUBOS is an experimental terminal built to interact with it.
 
+# SUB OS
 1,000 bytes.
 The practical safety zone is approximately 850 bytes.
 
