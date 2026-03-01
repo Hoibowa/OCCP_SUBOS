@@ -29,6 +29,10 @@ A voyage beginning from 850 bytes.
 Hello World.
 
 
+<img width="1023" height="870" alt="subos" src="https://github.com/user-attachments/assets/b1f3296b-d905-41bf-80c2-bb801e1cb651" />
+
+
+
 ## What is this?
 SUBOS is an experimental terminal environment implementing
 OCCP (On-Chain Context Protocol).
