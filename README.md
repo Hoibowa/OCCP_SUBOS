@@ -96,6 +96,7 @@ Stream Label
 DIARYと入れてみてください。
 
 Category (Sort ID) Profile (01) Diary (10) User (20) User (30) User (50) System (80) Default (99)
+
 後に【02】のストレージストリームディレクトリに表示する順番を指定します。
 何番でも良いですが、日記は10番を用意してます。
 
