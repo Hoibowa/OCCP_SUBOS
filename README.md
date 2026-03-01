@@ -38,6 +38,28 @@ OCCP explores a simple idea:
 Value transfer and information persistence can be treated as the same process on a distributed ledger.
 
 The current reference implementation operates on the XRP Ledger (XRPL),
+
+
+## ⚠️ Security Warning
+
+SUBOS is experimental software intended for research and exploration.
+
+This application operates inside a web browser environment and interacts
+with blockchain accounts and private keys.
+
+Browser environments cannot be considered secure execution spaces.
+Malicious scripts, browser extensions, modified source files,
+or compromised environments may expose sensitive information.
+
+Security has not been audited.
+
+**Use burner wallets only.**
+Never use wallets containing meaningful funds.
+
+If you are not comfortable managing cryptographic keys
+and understanding associated risks, do not proceed.
+
+You are solely responsible for your environment, keys, and actions.
 using transaction metadata and NFTs as linked contextual storage.
 
 SUBOS is not a platform or service.
