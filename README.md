@@ -25,3 +25,18 @@ But the record remains.
 A voyage beginning from 850 bytes.
 
 Hello World.
+
+
+## What is this?
+SUBOS is an experimental terminal environment implementing
+OCCP (On-Chain Context Protocol).
+
+OCCP explores a simple idea:
+
+Value transfer and information persistence can be treated as the same process on a distributed ledger.
+
+The current reference implementation operates on the XRP Ledger (XRPL),
+using transaction metadata and NFTs as linked contextual storage.
+
+SUBOS is not a platform or service.
+It is a tool for writing and linking context directly on-chain.
