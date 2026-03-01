@@ -43,6 +43,7 @@ Value transfer and information persistence can be treated as the same process on
 The current reference implementation operates on the XRP Ledger (XRPL),
 
 
+
 ## ⚠️ Security Warning
 
 SUBOS is experimental software intended for research and exploration.
@@ -67,3 +68,9 @@ using transaction metadata and NFTs as linked contextual storage.
 
 SUBOS is not a platform or service.
 It is a tool for writing and linking context directly on-chain.
+
+
+## 🚀 Quick Start
+
+The SubOS experimental terminal is ready to launch, but even an OS needs a reboot. 
+I'm signing off for today to recharge. Detailed setup instructions will be updated soon.
