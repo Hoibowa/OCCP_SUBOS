@@ -61,3 +61,5 @@ This protocol (OCCP) and its experimental implementation "SUBOS" were conceptual
 The conceptual frameworks, naming conventions, and design philosophies contained herein are not translations of existing Western concepts but are **primary descriptions** formed during the implementation process.
 
 Therefore, the **Japanese version** of this White Paper shall be recognized as the **Primary Definition (Original Text).** All other language versions are provided as reference translations only. While OCCP does not belong to any specific nation or organization, the fact that its initial definition was established in the **Japanese language** is hereby recorded.
+
+2026　3月1日　HOIBOWA
