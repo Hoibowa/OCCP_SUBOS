@@ -1,4 +1,8 @@
 # OCCP_SUBOS
+
+![1772365332-KUVmC9flt0IMvb7hWxdyHSLw](https://github.com/user-attachments/assets/85fc32d2-bcfa-420f-afda-5e9e282aede7)
+
+
 OCCP is an on-chain context protocol that treats value transfer and information persistence as equivalent. SUBOS is an experimental terminal built to interact with it.
 For details, please refer to the White Paper.
 
